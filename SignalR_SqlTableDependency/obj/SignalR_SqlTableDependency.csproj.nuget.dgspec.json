@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\RealTime-Charts\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\RealTime-Charts\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\RealTime-Charts\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj",
         "projectName": "SignalR_SqlTableDependency",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\RealTime-Charts\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\RealTime-Charts\\SignalR_SqlTableDependency\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E7yK1U06EIsBtuVN+ZBaMlcguxPHEmrROr3sEYdVaSwsZW6sLe2Jr4jbSBQJ8X57anJELmMvZ4jSy8uEZCgpGA==",
+  "dgSpecHash": "Q2G6m+OxCscDVaGDp/1LiGZvqi+Tm9gV/fXSA2MyS9RcnqVThyCypfTwrlEwc3CvLevOZpLZD8M2CaOnSarzcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\SignalR_SqlTableDependency\\RealTime-Charts\\SignalR_SqlTableDependency\\SignalR_SqlTableDependency.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
